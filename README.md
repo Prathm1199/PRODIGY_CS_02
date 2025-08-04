@@ -1,4 +1,4 @@
-# PRODIGY_CS_02 - Image Pixel Encryption
+# Image Pixel Encryption
 
 ## 📌 Task Description
 This task encrypts an image by modifying its pixel values using a simple XOR operation.
